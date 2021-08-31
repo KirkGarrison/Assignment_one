@@ -1,23 +1,5 @@
-# Tester
+This bad is quoted
+> hello world
 
-
-*test* ```*test*```
-
-
-**test**
-
-
-* test
-
-
-> > test 
-
-
-> # test
-
-
-> & test
-
-
-> `test`
-`I don't understand what this does`
+This badboy is all grey
+`grey text`
